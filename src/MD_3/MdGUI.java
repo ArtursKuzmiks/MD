@@ -94,13 +94,13 @@ class MdGUI extends JFrame {
         public void actionPerformed(ActionEvent actionEvent) {
             list2Model.clear();
             for (int i = 0; i < list1Model.getSize(); i++) {
-                String[] split = list1Model.get(i).split("\\W");
+                String[] split = list1Model.get(i).split("\\p{Punct}|\\s");
                 String temp = split[0];
-                boolean found = false;
                 for (int n = 1; n < split.length; n++) {
-                    if (split[n].length() < split[0].length() && !found) {
-                        temp = split[n];
-                        found = true;
+                    if (split[n].length() < split[0].length()) {
+                        if(!split[n].equalsIgnoreCase(temp))
+                            temp = split[n];
+
                     }
                 }
                 list2Model.addElement(temp);
