@@ -16,8 +16,8 @@ class MdGUI extends JFrame {
 
     MdGUI() {
 
-        final Border border = BorderFactory.createLineBorder(Color.BLUE,1);
-        final String title = "Md_3, 111REB779";
+        final Border border = BorderFactory.createLineBorder(Color.BLUE, 1);
+        final String title = "Md_3, First shortest word search";
         final int location = 300;
         final int width = 500;
         final int height = 500;
@@ -41,6 +41,7 @@ class MdGUI extends JFrame {
         setBounds(location, location, width, height);
 
         setVisible(true);
+
 
         jPanel.setLayout(null);
 
@@ -95,11 +96,11 @@ class MdGUI extends JFrame {
             for (int i = 0; i < list1Model.getSize(); i++) {
                 String[] split = list1Model.get(i).split("\\W");
                 String temp = split[0];
-                boolean found=false;
+                boolean found = false;
                 for (int n = 1; n < split.length; n++) {
-                    if (split[n].length() < split[0].length() && !found){
+                    if (split[n].length() < split[0].length() && !found) {
                         temp = split[n];
-                        found=true;
+                        found = true;
                     }
                 }
                 list2Model.addElement(temp);
