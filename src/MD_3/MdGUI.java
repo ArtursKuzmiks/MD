@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 class MdGUI extends JFrame {
 
-    private JTextField jTextField = new JTextField(40);
+    private JTextField jTextField = new JTextField();
     private DefaultListModel<String> list1Model = new DefaultListModel<>();
     private DefaultListModel<String> list2Model = new DefaultListModel<>();
 
@@ -22,8 +22,6 @@ class MdGUI extends JFrame {
         final int width = 500;
         final int height = 500;
 
-        JPanel jPanel = new JPanel();
-
         JScrollPane jScrollPane1;
         JScrollPane jScrollPane2;
 
@@ -35,48 +33,62 @@ class MdGUI extends JFrame {
         JList<String> list1 = new JList<>();
         JList<String> list2 = new JList<>();
 
-        setTitle(title);
-        setResizable(false);
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setBounds(location, location, width, height);
-
-        setVisible(true);
-
-
-        jPanel.setLayout(null);
-
         list1.setBorder(border);
         list2.setBorder(border);
         list1.setModel(list1Model);
         list2.setModel(list2Model);
 
-        jScrollPane1 = new JScrollPane(list1);
+        jScrollPane1  = new JScrollPane(list1);
         jScrollPane2 = new JScrollPane(list2);
 
-        jTextField.setBounds(50, 25, 400, 25);
-        add.setBounds(160, 60, 70, 30);
-        run.setBounds(270, 60, 70, 30);
-        jScrollPane1.setBounds(50, 100, 180, 300);
-        jScrollPane2.setBounds(270, 100, 180, 300);
-        delete.setBounds(160, 410, 70, 30);
-        clear.setBounds(270, 410, 70, 30);
+        GroupLayout layout = new GroupLayout(getContentPane());
+        getContentPane().setLayout(layout);
+        layout.setAutoCreateGaps(true);
+        layout.setAutoCreateContainerGaps(true);
 
+        layout.setHorizontalGroup(layout.createSequentialGroup()
+                .addGroup(layout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                        .addComponent(jTextField)
+                .addGroup(layout.createSequentialGroup()
+                        .addGroup(layout.createParallelGroup(GroupLayout.Alignment.TRAILING)
+                            .addComponent(add)
+                            .addComponent(jScrollPane1)
+                            .addComponent(delete))
+                        .addGroup(layout.createParallelGroup(GroupLayout.Alignment.LEADING)
+                            .addComponent(run)
+                            .addComponent(jScrollPane2)
+                            .addComponent(clear))))
+        );
 
-        jPanel.add(jTextField);
-        jPanel.add(add);
-        jPanel.add(run);
-        jPanel.add(jScrollPane1);
-        jPanel.add(jScrollPane2);
-        jPanel.add(delete);
-        jPanel.add(clear);
+        layout.linkSize(SwingConstants.HORIZONTAL,add,run,delete,clear);
+
+        layout.setVerticalGroup(layout.createSequentialGroup()
+                .addGroup(layout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                    .addComponent(jTextField))
+                .addGroup(layout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                    .addComponent(add)
+                    .addComponent(run))
+                .addGroup(layout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                    .addComponent(jScrollPane1)
+                    .addComponent(jScrollPane2))
+                .addGroup(layout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                    .addComponent(delete)
+                    .addComponent(clear))
+        );
+
+        pack();
+
+        setBounds(location, location, width, height);
+        setTitle(title);
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setVisible(true);
+
 
         add.addActionListener(new ActionAdd());
         run.addActionListener(new ActionRun());
         jTextField.addActionListener(new ActionAdd());
         delete.addActionListener(new ActionDelete());
         clear.addActionListener(new ActionClear());
-
-        add(jPanel);
 
     }
 
@@ -94,13 +106,12 @@ class MdGUI extends JFrame {
         public void actionPerformed(ActionEvent actionEvent) {
             list2Model.clear();
             for (int i = 0; i < list1Model.getSize(); i++) {
-                String[] split = list1Model.get(i).split("\\p{Punct}|\\s");
+                String[] split = list1Model.get(i).split("\\p{Punct}|\\s|\\d");
                 String temp = split[0];
                 for (int n = 1; n < split.length; n++) {
                     if (split[n].length() < split[0].length()) {
                         if(!split[n].equalsIgnoreCase(temp))
                             temp = split[n];
-
                     }
                 }
                 list2Model.addElement(temp);
