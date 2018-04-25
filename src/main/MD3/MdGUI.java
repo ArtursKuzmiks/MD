@@ -105,7 +105,8 @@ class MdGUI extends JFrame {
         public void actionPerformed(ActionEvent actionEvent) {
             list2Model.clear();
             for (int i = 0; i < list1Model.getSize(); i++) {
-                String[] split = list1Model.get(i).split("\\p{Punct}|\\s|\\d");
+                String[] split = list1Model.get(i).replaceAll("\\d","").
+                        split("\\s");
                 String temp = split[0];
                 for (int n = 1; n < split.length; n++) {
                     if (split[n].length() < split[0].length()) {

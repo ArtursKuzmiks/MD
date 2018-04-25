@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42448a19-912a-4da0-b61a-4e86d1036f69" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MD3/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MD_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MD_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MD_3/MD_3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MD_3/MD_3/MdGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MD_3/MD_3/MdGUI$ActionAdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MD_3/MD_3/MdGUI$ActionClear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MD_3/MD_3/MdGUI$ActionDelete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MD_3/MD_3/MdGUI$ActionRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MD_3/MD_3/MdGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MD_3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MD_3/MdGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MD3/MdGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MD3/MdGUI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,25 +16,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="51">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MdGUI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MdGUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+            <state relative-caret-position="17">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="class#ActionAdd#0;class#MdGUI#0" />
-                <element signature="class#ActionRun#0;class#MdGUI#0" />
-                <element signature="class#ActionDelete#0;class#MdGUI#0" />
                 <element signature="class#ActionClear#0;class#MdGUI#0" />
               </folding>
             </state>
@@ -70,6 +53,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Arturs Kuzmiks &lt;arturskuzmiks@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -86,9 +74,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/MdGUI.java" />
         <option value="$PROJECT_DIR$/src/main/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/main/MD3/Main.java" />
         <option value="$PROJECT_DIR$/src/test/MD3/MdGUITest.java" />
         <option value="$PROJECT_DIR$/src/test/MD3/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/MD3/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD3/MdGUI.java" />
       </list>
     </option>
   </component>
@@ -111,13 +100,24 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MD_3" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="10" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="977" />
-    <option name="height" value="1039" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -127,36 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MD_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MD_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MD_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MD_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MD_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MD_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MD_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MD_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -166,7 +136,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_PLUGINS_DIR$/NodeJS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$APPLICATION_PLUGINS_DIR$/NodeJS/js/nodeunit/nodeunit-intellij-starter.js" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -306,6 +276,27 @@
       <workItem from="1522517212843" duration="106000" />
       <workItem from="1522518117786" duration="803000" />
       <workItem from="1522519657356" duration="15000" />
+      <workItem from="1522519959147" duration="245000" />
+      <workItem from="1522520591215" duration="14000" />
+      <workItem from="1522569045301" duration="133000" />
+      <workItem from="1522609417945" duration="110000" />
+      <workItem from="1522650320584" duration="15000" />
+      <workItem from="1522661436135" duration="675000" />
+      <workItem from="1522747334445" duration="160000" />
+      <workItem from="1522748118983" duration="488000" />
+      <workItem from="1522749855281" duration="393000" />
+      <workItem from="1522750452398" duration="502000" />
+      <workItem from="1522751923834" duration="24000" />
+      <workItem from="1522781902117" duration="610000" />
+      <workItem from="1523619015060" duration="57000" />
+      <workItem from="1523958376103" duration="554000" />
+      <workItem from="1523971710058" duration="405000" />
+      <workItem from="1523979250268" duration="261000" />
+      <workItem from="1523979717993" duration="2120000" />
+      <workItem from="1524051516170" duration="1755000" />
+      <workItem from="1524058034595" duration="100000" />
+      <workItem from="1524058364682" duration="48000" />
+      <workItem from="1524136511565" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.01">
       <created>1521316165845</created>
@@ -349,11 +340,25 @@
       <option name="project" value="LOCAL" />
       <updated>1522352105718</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ver 1.1">
+      <created>1522520087392</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1522520087392</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ver 1.1">
+      <created>1522520122554</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1522520122554</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35462000" />
+    <option name="totallyTimeSpent" value="44726000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,20 +370,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="0" width="783" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" order="0" type="FLOATING" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3295325" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5021482" side_tool="true" weight="0.32905984" />
-      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32871014" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32193732" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49785176" weight="0.27207977" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49785176" weight="0.27065527" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49785176" weight="0.32905984" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49893844" visible="true" weight="0.17248322" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49893844" weight="0.25623268" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="6" sideWeight="0.50106156" side_tool="true" weight="0.0966443" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -388,11 +393,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32905984" />
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3298731" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info id="Capture Tool" order="0" />
       <window_info anchor="bottom" id="Message" order="3" />
     </layout>
@@ -472,13 +478,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#ActionClear#0;class#MdGUI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -497,9 +511,6 @@
           <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -518,9 +529,6 @@
           <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -539,9 +547,6 @@
           <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -560,9 +565,6 @@
           <caret line="96" column="76" selection-start-line="96" selection-start-column="76" selection-end-line="96" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -581,9 +583,6 @@
           <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -602,9 +601,6 @@
           <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -623,9 +619,6 @@
           <caret line="101" column="44" lean-forward="true" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -644,9 +637,6 @@
           <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -665,9 +655,6 @@
           <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -686,9 +673,6 @@
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -707,9 +691,6 @@
           <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -728,9 +709,6 @@
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -749,16 +727,10 @@
           <caret line="113" column="31" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -766,9 +738,6 @@
           <caret line="113" column="31" lean-forward="true" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -787,9 +756,6 @@
           <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -808,9 +774,6 @@
           <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -829,9 +792,6 @@
           <caret line="67" column="23" lean-forward="true" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -850,9 +810,6 @@
           <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -871,9 +828,6 @@
           <caret line="43" column="129" selection-start-line="43" selection-start-column="129" selection-end-line="43" selection-end-column="129" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
             <element signature="class#ActionClear#0;class#MdGUI#0" />
           </folding>
         </state>
@@ -907,24 +861,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+        <state relative-caret-position="51">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionAdd#0;class#MdGUI#0" />
-            <element signature="class#ActionRun#0;class#MdGUI#0" />
-            <element signature="class#ActionDelete#0;class#MdGUI#0" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="17">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#ActionClear#0;class#MdGUI#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -945,7 +900,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1005,7 +960,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
+          <last-edited />
           <splitter-proportions>
             <option name="proportions">
               <list>
