@@ -2,8 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42448a19-912a-4da0-b61a-4e86d1036f69" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD00/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD22/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD26/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD31/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD45/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD46/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD60/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD62/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD85/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MD85/MdGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD00/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD00/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD00/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD00/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD00/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD00/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD00/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD05/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD05/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD05/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD05/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD05/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD05/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD05/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD07/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD07/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD07/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD07/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD07/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD07/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD07/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD17/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD17/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD17/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD17/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD17/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD17/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD17/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD22/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD22/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD22/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD22/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD22/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD22/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD22/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD26/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD26/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD26/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD26/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD26/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD26/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD26/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD31/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD31/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD31/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD31/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD31/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD31/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD31/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD45/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD45/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD45/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD45/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD45/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD45/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD45/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD46/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD46/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD46/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD46/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD46/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD46/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD46/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD60/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD60/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD60/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD60/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD60/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD60/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD60/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD62/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD62/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD62/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD62/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD62/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD62/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD62/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD79/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD79/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD79/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD79/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD79/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD79/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD79/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD85/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD85/MdGUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD85/MdGUI$ActionAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD85/MdGUI$ActionClear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD85/MdGUI$ActionDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD85/MdGUI$ActionRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MD85/MdGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MD79/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/MD3/MdGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MD3/MdGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MD_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MD_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MD3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MD79/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/MD3/MdGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/MD79/MdGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MD3/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/MD79/MainTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,27 +132,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/MD22/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
+            <state relative-caret-position="75">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MdGUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/MD85/MdGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
               <folding>
-                <element signature="e#77#78#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MdGUI.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/MD60/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#ActionClear#0;class#MdGUI#0" />
-              </folding>
+            <state relative-caret-position="1950">
+              <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/MD62/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MdGUI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/MD45/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/MD05/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/MD00/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1605">
+              <caret line="111" column="36" selection-end-line="152" />
             </state>
           </provider>
         </entry>
@@ -47,8 +211,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -69,7 +233,6 @@
         <option value="$PROJECT_DIR$/src/MD_3/Main.java" />
         <option value="$PROJECT_DIR$/src/find.java" />
         <option value="$PROJECT_DIR$/src/MD_3/MdGUI.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/MdGUI.java" />
@@ -78,6 +241,24 @@
         <option value="$PROJECT_DIR$/src/test/MD3/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/MD3/Main.java" />
         <option value="$PROJECT_DIR$/src/main/MD3/MdGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/MD85/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD46/MdGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/MD26/MdGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/MD60/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD26/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD46/MD3.java" />
+        <option value="$PROJECT_DIR$/src/main/MD46/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD31/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD17/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD07/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD62/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD00/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD22/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD85/MdGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/MD45/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD05/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/MD79/MdGUI.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -114,10 +295,14 @@
   <component name="MavenRunner">
     <option name="jreName" value="10" />
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="950" />
+    <option name="y" value="27" />
+    <option name="width" value="970" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -127,7 +312,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MD_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MD_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MD_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MD_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MD_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MD_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,12 +345,12 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../111reb779" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$APPLICATION_PLUGINS_DIR$/NodeJS/js/nodeunit/nodeunit-intellij-starter.js" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -167,17 +376,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MD3.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MD45.Main" />
       <module name="MD_3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MD3.*" />
+          <option name="PATTERN" value="MD45.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MD62.Main" />
+      <module name="MD_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MD62.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MD00.Main" />
+      <module name="MD_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MD00.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MD22.Main" />
+      <module name="MD_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MD22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MD05.Main" />
+      <module name="MD_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MD05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,22 +476,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
+    <list>
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -297,6 +548,47 @@
       <workItem from="1524058034595" duration="100000" />
       <workItem from="1524058364682" duration="48000" />
       <workItem from="1524136511565" duration="595000" />
+      <workItem from="1524674492608" duration="208000" />
+      <workItem from="1525007977669" duration="3886000" />
+      <workItem from="1525022624908" duration="14000" />
+      <workItem from="1525099578224" duration="1405000" />
+      <workItem from="1525101082813" duration="50000" />
+      <workItem from="1525259678041" duration="769000" />
+      <workItem from="1525260763660" duration="3284000" />
+      <workItem from="1525282535930" duration="266000" />
+      <workItem from="1525286026540" duration="1147000" />
+      <workItem from="1525287611512" duration="26000" />
+      <workItem from="1525510201077" duration="3986000" />
+      <workItem from="1525676497424" duration="95000" />
+      <workItem from="1525696705527" duration="1418000" />
+      <workItem from="1525769424840" duration="1134000" />
+      <workItem from="1525770793315" duration="18000" />
+      <workItem from="1525776279453" duration="371000" />
+      <workItem from="1525793256820" duration="17000" />
+      <workItem from="1525801092239" duration="1735000" />
+      <workItem from="1525804431441" duration="1000" />
+      <workItem from="1525807910085" duration="8000" />
+      <workItem from="1525848712862" duration="982000" />
+      <workItem from="1525854092785" duration="214000" />
+      <workItem from="1525854851209" duration="99000" />
+      <workItem from="1525862668660" duration="321000" />
+      <workItem from="1525865873929" duration="969000" />
+      <workItem from="1525956016493" duration="817000" />
+      <workItem from="1525967741723" duration="121000" />
+      <workItem from="1526033206099" duration="780000" />
+      <workItem from="1526051054867" duration="1466000" />
+      <workItem from="1526118106778" duration="4522000" />
+      <workItem from="1526123435739" duration="271000" />
+      <workItem from="1526123750912" duration="164000" />
+      <workItem from="1526128615254" duration="1349000" />
+      <workItem from="1526138930575" duration="30000" />
+      <workItem from="1526139026727" duration="3429000" />
+      <workItem from="1526148262924" duration="1273000" />
+      <workItem from="1526154802353" duration="269000" />
+      <workItem from="1526220024374" duration="24000" />
+      <workItem from="1526468683161" duration="163000" />
+      <workItem from="1526476768251" duration="1121000" />
+      <workItem from="1526479026279" duration="170000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.01">
       <created>1521316165845</created>
@@ -354,11 +646,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522520122554</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ver 1.1">
+      <created>1524674669825</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1524674669825</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44726000" />
+    <option name="totallyTimeSpent" value="83118000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,37 +669,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="783" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
       <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" order="0" type="FLOATING" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3295325" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3286334" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5021482" side_tool="true" weight="0.32905984" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50249034" side_tool="true" weight="0.3286334" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.32871014" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" weight="0.32193732" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49785176" weight="0.27065527" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49785176" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4997233" weight="0.32104123" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49785176" visible="true" weight="0.18655097" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4975097" weight="0.3286334" />
+      <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49893844" weight="0.25623268" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49893844" visible="true" weight="0.11178749" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="6" sideWeight="0.50106156" side_tool="true" weight="0.0966443" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39794755" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32905984" />
-      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.3298731" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39370933" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info id="Capture Tool" order="0" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3298731" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" order="0" type="FLOATING" />
@@ -408,12 +706,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32410613" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2588889" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
@@ -423,7 +721,7 @@
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info id="Capture Tool" order="0" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -465,6 +763,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="ver 1.01" />
     <MESSAGE value="ver 1.02" />
     <MESSAGE value="ver 1.1" />
@@ -472,364 +773,216 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="12" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/MD85/MdGUI.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/MD46/Main.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/MD17/Main.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/MD62/Main.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/MD79/MdGUI.java</url>
+          <line>123</line>
+          <properties class="MD79.MdGUI.ActionDelete" method="actionPerformed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="96" column="76" selection-start-line="96" selection-start-column="76" selection-end-line="96" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2037">
-          <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2121">
-          <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2121">
           <caret line="101" column="44" lean-forward="true" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
           <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
           <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2121">
           <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2373">
           <caret line="113" column="31" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2373">
           <caret line="113" column="31" lean-forward="true" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1407">
           <caret line="67" column="23" lean-forward="true" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1659">
           <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="903">
           <caret line="43" column="129" selection-start-line="43" selection-start-column="129" selection-end-line="43" selection-end-column="129" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,49 +990,136 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/MD_3/Action.java" />
     <entry file="file://$PROJECT_DIR$/src/MD_3/ActionAdd.java" />
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/awt/event/ActionListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/awt/event/ActionListener.class" />
     <entry file="file://$PROJECT_DIR$/src/find.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/MainTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/MD3/MdGUITest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/MD3/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/MD79/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD85/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="59" />
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD46/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD26/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD46/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="106" column="12" lean-forward="true" selection-start-line="106" selection-start-column="12" selection-end-line="114" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD07/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="107" column="55" selection-start-line="107" selection-start-column="55" selection-end-line="107" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD31/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="159" column="13" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD17/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="123" column="33" selection-start-line="123" selection-start-column="33" selection-end-line="123" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD22/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD85/MdGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
           <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/MD3/MdGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/MD45/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#ActionClear#0;class#MdGUI#0" />
-          </folding>
+        <state relative-caret-position="1800">
+          <caret line="124" column="5" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD00/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="111" column="36" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD60/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD62/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/MD79/MdGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -900,7 +1140,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -923,7 +1163,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>9.0</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -948,7 +1188,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -960,7 +1200,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
